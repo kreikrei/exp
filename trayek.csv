@@ -1,0 +1,23 @@
+src,dst,md,lim
+Banda Aceh,Lhokseumawe,TRUK,15
+Banda Aceh,Medan,TRUK,15
+Banda Aceh,Sibolga,TRUK,15
+Banda Aceh,Pematang Siantar,TRUK,15
+Lhokseumawe,Banda Aceh,TRUK,15
+Lhokseumawe,Medan,TRUK,15
+Lhokseumawe,Sibolga,TRUK,15
+Lhokseumawe,Pematang Siantar,TRUK,15
+Medan,Banda Aceh,TRUK,15
+Medan,Lhokseumawe,TRUK,15
+Medan,Sibolga,TRUK,15
+Medan,Pematang Siantar,TRUK,15
+Sibolga,Banda Aceh,TRUK,15
+Sibolga,Lhokseumawe,TRUK,15
+Sibolga,Medan,TRUK,15
+Sibolga,Pematang Siantar,TRUK,15
+Pematang Siantar,Banda Aceh,TRUK,15
+Pematang Siantar,Lhokseumawe,TRUK,15
+Pematang Siantar,Medan,TRUK,15
+Pematang Siantar,Sibolga,TRUK,15
+Medan,Pematang Siantar,KRTA,2
+Pematang Siantar,Medan,KRTA,2
