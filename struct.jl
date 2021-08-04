@@ -72,6 +72,7 @@ out(v) => all lin going out from vertex v
 =#
 
 using Distances
+using JuMP
 
 trayek = CSV.File("trayek.csv") |> DataFrame
 kndrn = CSV.File("kendaraan.csv") |> DataFrame
