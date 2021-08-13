@@ -1,3 +1,4 @@
+#TAHIIIKKKKKK
 using JuMP, GLPK, LightGraphs, CSV, DataFrames
 
 vtx = ["Banda Aceh", "Lhokseumawe", "Medan","Sibolga", "Pematang Siantar"]
