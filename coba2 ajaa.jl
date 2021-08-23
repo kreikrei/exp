@@ -431,3 +431,7 @@ tes
 sum(length(k) for k in values(tes[(2, 2)]))
 
 kasih(t) = false
+
+using Dictionaries
+dict = Dictionary([1,2,3],["a","b","c"])
+unset!(dict,lastindex(dict))
